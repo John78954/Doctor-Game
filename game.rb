@@ -143,6 +143,7 @@ while user_input = gets.chomp
           when "Kill yourself"
             puts "You die and the world gets overruned by zombies."
             puts "Thanks for playing!"
+	    puts "Lawrence was here!!!"
             break
           end
         end
